@@ -1,2 +1,2 @@
 # Optimal-binary-search-tree
-Script Python qui construit un arbre binaire optimal et recherche un ou plusieurs éléments dedans
+Python code that builds an optimal binary tree and searches for one or more elements in it
